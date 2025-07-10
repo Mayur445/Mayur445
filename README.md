@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Mayur445
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently looki
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi there, I'm Mayur V!
 
-<!---
-Mayur445/Mayur445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Web Development, and learning Full Stack technologies.
+- 🌱 I’m currently learning Django, Python, SQL, and JavaScript to build real-world projects.
+- 🤝 I’m open to collaborating on beginner-friendly Django, Python, or web development projects.
+- 📫 How to reach me: mayurkainij@gmail.com | [LinkedIn](https://linkedin.com/in/mayur-v-)
+- ⚡ Fun fact: I enjoy turning ideas into working web apps and improving a little bit every day.
+
+---
+
+### 🔧 Technologies I’m working with:
+- Python | Django | SQL | HTML | CSS | JavaScript (Learning) | MySQL
+  
+---
+
+### 📂 Some of my projects:
+- 💻 College Canteen Management System (HTML, CSS, JavaScript) — Rebuilding it in Django!
+- 🚀 Simple Django Blog App
+
+---
+
+Thanks for visiting my profile! 😊
